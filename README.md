@@ -1,3 +1,3 @@
 # CSS-HTML-Website
 2nd Website Attempt
-Course from Udemy: "Build Responsive Real World Websites with HTML5 and CSS3"
+This is from a Course on Udemy: "Build Responsive Real World Websites with HTML5 and CSS3"
